@@ -1,0 +1,6 @@
+ Amazon Technologies
+
+nslookup slash16.org
+# Берем первый ip копируем и используем команду whois ip.
+whois ip
+# Amazon Technologies
