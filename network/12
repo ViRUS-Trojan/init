@@ -1,0 +1,2 @@
+ifconfig en0 | grep "inet" | awk '{print $2}' | grep 192
+# Находим IP-адрес, назначенный нам сервером DHCP.

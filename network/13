@@ -1,0 +1,1 @@
+dig +noall +answer -x 192.168.21.87 | cut -d ' ' -f3 | awk '{print $3}'
